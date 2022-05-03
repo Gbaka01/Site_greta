@@ -43,13 +43,14 @@
 </div>
 <div class="recherche"><div class="line10"></div><p id="recherche1">Recherche stage professionnel</p></div>
 </div>
-    <div class="contact"><div class="mail-tel"></div><div class="reseaux_sociaux"><p id="reseaux_sociaux1">Réseaux sociaux</p>
+    <div class="contact"><div class="mail-tel"></div><div class="reseaux_sociaux"><p id="reseaux_sociaux1">Réseaux sociaux</p><div class ="rectangle7"></div>
 </div>
 <div class="line4"></div>
 <p id="nous_contacter">Nous contacter</p>
 </div>
-    <div class="copy"><p id="greta1">Greta de l"essonne @ 2018</p></div></footer>
-</div>
+    <div class="copy"><p id="greta1">Greta de l"essonne @ 2018</p></div>
+
+</footer>
     </div>
 </body>
 </html>
