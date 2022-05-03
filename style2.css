@@ -1,0 +1,425 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+body{    
+position: relative;
+width: 1512px;
+height: 1399px;
+background: #FFFFFF;
+}
+.figure{
+position: absolute;
+width: 637px;
+height: 203px;
+left: 100px;
+top: 0px;
+background: url(logo_greta.jpg);
+}
+.stage{
+position: absolute;
+height: 224px;
+left: 100px;
+right: 100px;
+top: 224px;
+background: #F7AA4E;
+}
+#stage1{
+position: absolute;
+width: 88px;
+height: 38px;
+left: 612px;
+top: 27px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+letter-spacing: -0.02em;
+color: #000000;
+}
+#type{
+    position: absolute;
+width: 138px;
+height: 19px;
+left: 130px;
+top: 97px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.frame10{
+position: absolute;
+width: 1019px;
+height: 58px;
+left: 130px;
+top: 116px;
+}
+.rectangle{
+position: absolute;
+width: 1019px;
+height: 58px;
+left: 0px;
+top: 0px;
+}
+.frame11{
+position: absolute;
+width: 1312px;
+height: 468px;
+left: 100px;
+top: 456px;
+background: #FFFFFF;
+}
+.profil{
+position: absolute;
+width: 1312px;
+height: 419px;
+left: calc(50% - 1312px/2);
+top: 56px;
+background: #F7AA4E;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 25px;
+}
+
+.en-tête{
+position: absolute;
+width: 667px;
+height: 82px;
+left: 151px;
+top: 20px;
+}
+#google{
+position: absolute;
+width: 65px;
+height: 23px;
+left: 21px;
+top: 59px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+#stage2{
+position: absolute;
+width: 310px;
+height: 23px;
+left: 21px;
+top: 23px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.description{
+position: absolute;
+width: 944px;
+height: 144px;
+left: 151px;
+top: 112px;
+}
+#description1{
+position: absolute;
+width: 110px;
+height: 23px;
+left: 16px;
+top: 12px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.informations{
+position: absolute;
+width: 514px;
+height: 90px;
+left: 151px;
+top: 266px;
+}
+#adresse{
+position: absolute;
+width: 297px;
+height: 23px;
+left: 13px;
+top: 60px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+#durée{
+position: absolute;
+width: 126px;
+height: 23px;
+left: 13px;
+top: 16px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+footer{
+position: absolute;
+width: 1312px;
+height: 422px;
+left: 100px;
+top: 950px;
+}
+.linear_bot{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+border: 1px solid #000000;
+}
+.linear_top{
+position: absolute;
+left: 0%;
+right: 0.38%;
+top: 0.47%;
+bottom: 99.53%;
+border: 1px solid #000000;
+}
+.nav-bar{
+position: absolute;
+left: 0%;
+right: 0.38%;
+top: 31.75%;
+bottom: 13.27%;
+}
+.compte{
+position: absolute;
+width: 1307px;
+height: 55px;
+left: 0px;
+top: 0px;
+}
+.line6{
+position: absolute;
+width: 1307px;
+height: 0px;
+left: 0px;
+top: 56px;
+border: 1px solid #000000;
+transform: rotate(-0.04deg);
+}
+#compte1{
+position: absolute;
+width: 57px;
+height: 18px;
+left: calc(50% - 57px/2);
+top: calc(50% - 18px/2 + 6.5px);
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.statistiques{
+position: absolute;
+width: 1307px;
+height: 60px;
+left: 0px;
+top: 56px;
+}
+.line7{
+position: absolute;
+width: 1307px;
+height: 0px;
+left: 0px;
+top: 60px;
+border: 1px solid #000000;
+}
+.statistiques1{
+position: absolute;
+width: 208px;
+height: 18px;
+left: calc(50% - 208px/2 - 0.5px);
+top: calc(50% - 18px/2 + 3px);
+
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: -0.02em;
+color: #000000;
+
+}
+.Profil{
+position: absolute;
+width: 1307px;
+height: 49px;
+left: 0px;
+top: 120px;
+}
+.line8{
+position: absolute;
+width: 1307px;
+height: 0px;
+left: 0px;
+top: 48px;
+border: 1px solid #000000;
+transform: rotate(0.04deg);
+}
+#Profil1{
+position: absolute;
+width: 123px;
+height: 18px;
+left: calc(50% - 123px/2);
+top: calc(50% - 18px/2 + 8.5px);
+
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.recherche{
+position: absolute;
+width: 1307px;
+height: 56px;
+left: 0px;
+top: 176px;
+}
+.line10{
+position: absolute;
+width: 1307px;
+height: 0px;
+left: 0px;
+top: 56px;
+border: 1px solid #000000;
+}
+#recherche1{
+position: absolute;
+width: 218px;
+height: 18px;
+left: calc(50% - 218px/2 - 0.5px);
+top: calc(50% - 18px/2);
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.copy{
+position: absolute;
+left: 0%;
+right: 0.38%;
+top: 86.73%;
+bottom: 0.95%;
+}
+#greta1{
+position: absolute;
+width: 187px;
+height: 18px;
+left: calc(50% - 187px/2);
+top: calc(50% - 18px/2 - 10px);
+
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.contact{
+position: absolute;
+left: 14.18%;
+right: 9.91%;
+top: 0%;
+bottom: 73.46%;
+}
+.mail-tel{
+position: absolute;
+height: 76px;
+left: 480px;
+right: 15px;
+top: calc(50% - 76px/2 + 18px);
+}
+.reseaux_sociaux{
+position: absolute;
+height: 76px;
+left: 16px;
+right: 538px;
+top: calc(50% - 76px/2 + 18px);
+}
+#reseaux_sociaux1{
+position: absolute;
+width: 156px;
+height: 23px;
+left: 127px;
+top: -2px;
+
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.line4{
+position: absolute;
+width: 96.49px;
+height: 1.27px;
+left: 471.77px;
+top: 36.02px;
+border: 1px solid #000000;
+transform: rotate(90.75deg);
+}
+#nous_contacter{
+position: absolute;
+width: 178px;
+height: 28px;
+left: 380px;
+top: 0px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.rectangle3{
+position: absolute;
+left: 0%;
+right: 0.38%;
+top: 0.47%;
+bottom: 13.27%;
+background: #FFFFFF;
+}
