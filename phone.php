@@ -19,9 +19,8 @@
        
        <div class="contact1"><p id="contact2">contact</p><div class="telephone"><p id="telephone1">(+33)6 55 59 32 88</p><p id="telephone2">Téléphone</p></div><div class="mail1"><p id="email">Email</p><p id="email1">willie.jennings@example.com</p></div><div class="line12"></div>
     </div>
-    <div class="inform_pro"><p id="inform_pro1">Information professionnelle</p><div class="text1"><p id="position">Position Actuelle</p><p id="metier1">President of sales</p><p id="google">Google</p><p id="adresse1">20 rue Jacques, Paris</p></div><div class="line13"></div><div class="photo2"><p id="modifier">Modifier le CV</p><div class="CV"></div></div></div>
+    <div class="inform_pro"><p id="inform_pro1">Information professionnelle</p><div class="text1"><p id="position">Position Actuelle</p><p id="metier1">President of sales</p><p id="google">Google</p><p id="adresse1">20 rue Jacques, Paris</p></div><div class="line13"></div><div class="photo2"><p id="modifier">Modifier le CV</p><img class="CV" src="CV.jpg" alt="cv_greta"></div></div>
     <div class="Projet"><p id="projet1">Projet</p><div class="photo3"><img class="im7" src="image6.jpg" alt="greta1"><img class="im7" src="image7.jpg" alt="greta2"><img  class="im8" src="image8.jpg" alt="greta3"><img class="im9" src="image9.jpg" alt="greta4"></div></div>
-    </div>
     </div>
     <footer>
     <div class="linear_bot"></div><div class="linear_top"></div>
