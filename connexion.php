@@ -14,20 +14,21 @@
     <div class="container">
     <img class="figure" src="logo_greta.jpg" alt="greta">
     <div class="connexion1">
+        <div class="group6"><p id="email">Email</p><div class="rectangle24"></div>
+    
+     <div class="groupe5"><p id="mot">Mot de passe</p><div class="rectangle23"></div>
+</div>
         <div class="group2"><input class="styled"
        type="button"
        value="Se connecter">
-    </div>
+</div>
        <div class="group3"><input class="styled2"
        type="button"
-       value="Se connecter avec Linkedin"></div>
+       value="Se connecter avec Linkedin">
+       </div>
        <div class="group4"><input class="styled3"
        type="button"
        value="Créer un compte">
-    </div>
-      <div class="group6"><p id="email">Email</p><div class="rectangle1"></div>
-    </div>
-     <div class="group5"><p id="mot">Mot de passe</p><div class="rectangle"></div>
     </div>
    
      <p id="connexion">Connexion</p>
