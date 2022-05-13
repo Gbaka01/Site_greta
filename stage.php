@@ -17,6 +17,7 @@
     </div>
 <div class="frame11">
     <div class="profil">
+<input class="styled" type="button" value="postuler">
 
 <div class="en-tête"> <p id="google">google</p> <p id="stage2">Stage:Developpeur web/mobile</p>
 

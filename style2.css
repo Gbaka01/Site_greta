@@ -2,7 +2,7 @@
 body{    
 position: relative;
 width: 1512px;
-height: 1399px;
+height: 999px;
 background: #FFFFFF;
 }
 .figure{
@@ -37,7 +37,7 @@ letter-spacing: -0.02em;
 color: #000000;
 }
 #type{
-    position: absolute;
+position: absolute;
 width: 138px;
 height: 19px;
 left: 130px;
@@ -85,6 +85,16 @@ background: #F7AA4E;
 border: 1px solid #000000;
 box-sizing: border-box;
 border-radius: 25px;
+}
+.styled{
+position: absolute;
+width: 228px;
+height: 43px;
+left: 608px;
+top: 362px;
+background: #6A8EAE;
+border: 1px solid #1C1C1C;
+border-radius: 14px;
 }
 
 .en-tête{
