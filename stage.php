@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Stage</title>
-    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="style1.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 </head>
 <body>
@@ -16,7 +16,7 @@
       <div class="stage"> <p id="stage1">stage</p> <p id="type">Type de formation</p><div class="frame10"><div class="rectangle"></div>
     </div>
 <div class="frame11">
-    <div class="profil">
+    <div class="profils">
 <input class="styled" type="button" value="postuler">
 
 <div class="en-tête"> <p id="google">google</p> <p id="stage2">Stage:Developpeur web/mobile</p>
