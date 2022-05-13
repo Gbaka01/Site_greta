@@ -2,7 +2,7 @@
 body{    
 position: relative;
 width: 1512px;
-height: 999px;
+height: 962px;
 background: #FFFFFF;
 }
 .figure{
@@ -10,181 +10,151 @@ position: absolute;
 width: 637px;
 height: 203px;
 left: 100px;
-top: 0px;
+top: 1px;
 background: url(logo_greta.jpg);
 }
-.stage{
+.connexion1{
 position: absolute;
-height: 224px;
+width: 1312px;
+height: 314px;
 left: 100px;
-right: 100px;
 top: 224px;
-background: #F7AA4E;
+background: #F7AA4E;   
 }
-#stage1{
+.group2{
 position: absolute;
-width: 88px;
-height: 38px;
-left: 612px;
-top: 27px;
-font-family: "Work Sans";
-font-style: normal;
-font-weight: 700;
-font-size: 32px;
-line-height: 38px;
-text-align: center;
-letter-spacing: -0.02em;
-color: #000000;
+width: 151px;
+height: 18px;
+left: 582px;
+top: 176px;
 }
-#type{
-position: absolute;
-width: 138px;
-height: 19px;
-left: 130px;
-top: 97px;
+
+.styled{
 font-family: "Work Sans";
 font-style: normal;
 font-weight: 400;
-font-size: 16px;
-line-height: 19px;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: -0.02em;
+color: #000000;
+background: #6A8EAE;
+border-radius: 16px;
+}
+.group3{
+position: absolute;
+width: 235px;
+height: 20px;
+left: 537px;
+top: 204px;  
+}
+.styled2{
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+letter-spacing: -0.02em;
+color: #000000;
+background: #6A8EAE;
+border-radius: 16px;
+}
+.group4{
+position: absolute;
+width: 163px;
+height: 19px;
+left: 570px;
+top: 232px;  
+}
+.styled3{
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+letter-spacing: -0.02em;
+color: #000000;
+background: #6A8EAE;
+border-radius: 16px;
+   
+}
+.group6{
+position: absolute;
+width: 1312px;
+height: 47px;
+left: 0px;
+top: 57px;  
+}
+
+#email{
+position: absolute;
+width: 40px;
+height: 18px;
+left: 0px;
+top: 57px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
 text-align: center;
 letter-spacing: -0.02em;
 color: #000000;
 }
-.frame10{
+.rectangle1{
 position: absolute;
-width: 1019px;
-height: 58px;
-left: 130px;
-top: 116px;
+width: 1312px;
+height: 20px;
+left: 0px;
+top: 84px;
+background: #FAFAFF;
+border-radius: 16px;    
+}
+.group5{
+position: absolute;
+width: 1312px;
+height: 44px;
+left: 0px;
+top: 120px;  
+}
+#mot{
+position: absolute;
+width: 96px;
+height: 24.81px;
+left: 0px;
+top: 120px;
+font-family: "Work Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+letter-spacing: -0.02em;
+color: #000000;    
 }
 .rectangle{
 position: absolute;
-width: 1019px;
-height: 58px;
+width: 1312px;
+height: 24px;
 left: 0px;
-top: 0px;
-background: #FFFFFF;
+top: 140px;
+background: #FAFAFF;
 border-radius: 16px;
 }
-.frame11{
-position: absolute;
-width: 1312px;
-height: 468px;
-left: 100px;
-top: 456px;
-background: #FFFFFF;
-}
-.profil{
-position: absolute;
-width: 1312px;
-height: 419px;
-left: calc(50% - 1312px/2);
-top: 56px;
-background: #F7AA4E;
-border: 1px solid #000000;
-box-sizing: border-box;
-border-radius: 25px;
-}
-.styled{
-position: absolute;
-width: 228px;
-height: 43px;
-left: 608px;
-top: 362px;
-background: #6A8EAE;
-border: 1px solid #1C1C1C;
-border-radius: 14px;
-}
 
-.en-tête{
+#connexion{
 position: absolute;
-width: 667px;
-height: 82px;
-left: 151px;
-top: 20px;
-}
-#google{
-position: absolute;
-width: 65px;
-height: 23px;
-left: 21px;
-top: 59px;
-font-family: "Work Sans";
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 23px;
-letter-spacing: -0.02em;
-color: #000000;
-}
-#stage2{
-position: absolute;
-width: 310px;
-height: 23px;
-left: 21px;
-top: 23px;
+left: 581px;
+right: 580px;
+top: 17px;
+bottom: 262px;
 font-family: "Work Sans";
 font-style: normal;
 font-weight: 700;
-font-size: 20px;
-line-height: 23px;
-letter-spacing: -0.02em;
-color: #000000;
-}
-.description{
-position: absolute;
-width: 944px;
-height: 144px;
-left: 151px;
-top: 112px;
-}
-#description1{
-position: absolute;
-width: 110px;
-height: 23px;
-left: 16px;
-top: 12px;
-font-family: "Work Sans";
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 23px;
-letter-spacing: -0.02em;
-color: #000000;
-}
-.informations{
-position: absolute;
-width: 514px;
-height: 90px;
-left: 151px;
-top: 266px;
-}
-#adresse{
-position: absolute;
-width: 297px;
-height: 23px;
-left: 13px;
-top: 60px;
-font-family: "Work Sans";
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 23px;
-letter-spacing: -0.02em;
-color: #000000;
-}
-#durée{
-position: absolute;
-width: 126px;
-height: 23px;
-left: 13px;
-top: 16px;
-font-family: "Work Sans";
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 23px;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
 letter-spacing: -0.02em;
 color: #000000;
 }
